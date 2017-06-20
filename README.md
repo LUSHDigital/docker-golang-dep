@@ -1,6 +1,6 @@
 # Docker Dep
 
-A docker image for the Go dependency tool1
+A docker image for the Go dependency tool
 
 This image will allow you to install the dependencies required for your Golang application and *vendor* them. For more information on how vendoring works with Golang see their [wiki](https://github.com/golang/go/wiki/PackageManagementTools#go15vendorexperiment).
 
